@@ -1,0 +1,1 @@
+# email-verifivation-in-django
